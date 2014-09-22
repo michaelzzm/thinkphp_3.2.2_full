@@ -1,0 +1,151 @@
+.hero-unit {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+    background-image: url("../images/hero.jpg");
+    /*height: 500px;*/
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-position: center;
+    max-height: 100%;
+    width: 100%;
+}
+.rest-unit {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    padding-top: 20px;
+}
+.featured {
+    /*text-align: center;*/
+    padding-bottom: 50px;
+    margin-top: 15px;
+}
+.featured-title {
+    font-weight: bold;
+    color: #2a8685;
+}
+
+/*
+ *
+ *
+*/
+.footer {
+    height: 200px;
+    background-color: #666;
+    width: 100%;
+}
+#footer .copyright {
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/*
+ * Program
+ *
+*/
+.program:hover {
+    border: 1px solid #68b5ce;
+    box-shadow: 0 0 5px 0 #68b5ce;
+}
+.program h3 {
+    font-weight: bold;
+    margin-top: 15px;
+    color: #2a8685;
+}
+.program h6 {
+    color: #999;
+    padding-left: 1px;
+}
+.program img.verification {
+    position: absolute;
+    top: 10px;
+    right: 25px;
+    width: 30px;
+    height: 30px;
+    z-index: 1;  
+}
+.program-img {
+    overflow: hidden;
+}
+.program-img img {
+    max-width: 100%;
+}
+.program:hover .program-img img {
+    /*transform: scale(1.2);*/
+    transform: rotateY(180deg);
+    opacity: 0.1;
+}
+.program .program-img img {
+    transition: all 0.5s ease 0s;
+}
+.program .client a {
+    margin-top: -8px;
+}
+.program .client img {
+    width: 50px;
+    height: 50px;
+    /*border: 1px solid #a4c6c6;*/
+    box-shadow: 0 0 2px 0 #a4c6c6;
+    padding: 2px;
+    background-color: #fff;
+}
+.program .client img:hover {
+    width: 50px;
+    height: 50px;
+    /*border: 1px solid #a4c6c6;*/
+    box-shadow: 0 0 2px 0 #2a8685;
+    padding: 2px;
+    background-color: #fff;
+}
+.program .reviews {
+    position: absolute;
+    top: 80px;
+    width: 100%;
+    opacity: 0;
+    transition: all 0.5s ease 0s;
+}
+.program:hover .reviews {
+    opacity: 1;
+}
+.program .reviews span {
+    font-size: 48px!important;
+}
+.program .reviews a {
+    font-size: 18px;
+    color: #2a8685;
+}
+.program p.reviews {
+    position: absolute;
+    width: 80px;
+    height: 30px;
+    top: 150px;
+    right: 15px;
+    padding: 3px 0 0 4px;
+    background-color: rgba(104,181,206,.6);
+}
+
+/*
+ * Override BootStrap
+ *
+*/
+.thumbnail {
+    border-radius: 0!important;
+    padding: 0!important;
+}
+.thumbnail .caption {
+    padding-left: 19px!important;
+}
+.btn-primary {
+    background-color: #2a8685!important;
+    border-color: #1e5f5e!important;
+}
+.media, .media-body{
+    overflow: visible!important;
+}
+
