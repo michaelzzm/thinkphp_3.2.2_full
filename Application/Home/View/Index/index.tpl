@@ -63,7 +63,7 @@
             <div class="col-sm-4">
                 <div class="thumbnail program">
                     <img class="verification" src="https://www.boutiquehotels.com/images/luxe.svg">
-                    <div class="program-img"><img src="../Public/images/standard_thumbnail.jpg" alt="..."></div>
+                    <div class="program-img"><img src="Public/images/standard_thumbnail.jpg" alt="..."></div>
                     <div class="reviews text-center"><a href=""><span class="glyphicon glyphicon-comment"></span><br>评论(10)</a></div>
                     <!--<p class="reviews">
                         <span class="glyphicon glyphicon-user"></span><a href="#">评论 <span class="badge">3</span></a>
@@ -76,7 +76,7 @@
                         <div class="media">
                             <div class="client">
                                 <a class="pull-right" href="#">
-                                  <img src="../Public/images/program_logo_1.png" title="Pathways" alt="Pathways" class="img-circle media-object">
+                                  <img src="Public/images/program_logo_1.png" title="Pathways" alt="Pathways" class="img-circle media-object">
                                 </a>
                             </div>
                             <div class="media-body">
@@ -90,7 +90,7 @@
             <div class="col-sm-4">
                 <div class="thumbnail program">
                     <img class="verification" src="https://www.boutiquehotels.com/images/luxe.svg">
-                    <div class="program-img"><img src="../Public/images/townhouse_thumbnail.jpg" alt="..."></div>
+                    <div class="program-img"><img src="Public/images/townhouse_thumbnail.jpg" alt="..."></div>
                     <div class="reviews text-center"><a href=""><span class="glyphicon glyphicon-comment"></span><br>评论(12)</a></div>
                     <div class="caption">
                         <h3>国际交流项目2</h3>
@@ -100,7 +100,7 @@
                         <div class="media">
                             <div class="client">
                                 <a class="pull-right" href="#">
-                                  <img src="../Public/images/program_logo_2.png" title="Pathways" alt="Pathways" class="img-circle media-object">
+                                  <img src="Public/images/program_logo_2.png" title="Pathways" alt="Pathways" class="img-circle media-object">
                                 </a>
                             </div>
                             <div class="media-body">
@@ -113,7 +113,7 @@
             <div class="col-sm-4">
                 <div class="thumbnail program">
                     <img class="verification" src="https://www.boutiquehotels.com/images/luxe.svg">
-                    <div class="program-img"><img src="../Public/images/thesetai_thumbnail.jpg" alt="..."></div>
+                    <div class="program-img"><img src="Public/images/thesetai_thumbnail.jpg" alt="..."></div>
                     <div class="reviews text-center"><a href=""><span class="glyphicon glyphicon-comment"></span><br>评论(0)</a></div>
                     <div class="caption">
                         <h3>国际交流项目3</h3>
@@ -123,7 +123,7 @@
                         <div class="media">
                             <div class="client">
                                 <a class="pull-right" href="#">
-                                  <img src="../Public/images/program_logo_3.png" title="Pathways" alt="Pathways" class="img-circle media-object">
+                                  <img src="Public/images/program_logo_3.png" title="Pathways" alt="Pathways" class="img-circle media-object">
                                 </a>
                             </div>
                             <div class="media-body">
@@ -137,7 +137,7 @@
             <div class="col-sm-4">
                 <div class="thumbnail program">
                     <img class="verification" src="https://www.boutiquehotels.com/images/luxe.svg">
-                    <div class="program-img"><img src="../Public/images/standard_thumbnail.jpg" alt="..."></div>
+                    <div class="program-img"><img src="Public/images/standard_thumbnail.jpg" alt="..."></div>
                     <div class="caption">
                         <h3 class="text-left">国际交流项目1</h3>
                         <h6 class="text-left">纽约，美国</h6>
@@ -150,7 +150,7 @@
             <div class="col-sm-4">
                 <div class="thumbnail program">
                     <img class="verification" src="https://www.boutiquehotels.com/images/luxe.svg">
-                    <div class="program-img"><img src="../Public/images/townhouse_thumbnail.jpg" alt="..."></div>
+                    <div class="program-img"><img src="Public/images/townhouse_thumbnail.jpg" alt="..."></div>
                     <div class="caption">
                         <h3>国际交流项目2</h3>
                         <h6 class="text-left">纽约，美国</h6>
@@ -163,7 +163,7 @@
             <div class="col-sm-4">
                 <div class="thumbnail program">
                     <img class="verification" src="https://www.boutiquehotels.com/images/luxe.svg">
-                    <div class="program-img"><img src="../Public/images/thesetai_thumbnail.jpg" alt="..."></div>
+                    <div class="program-img"><img src="Public/images/thesetai_thumbnail.jpg" alt="..."></div>
                     <div class="caption">
                         <h3>国际交流项目3</h3>
                         <h6 class="text-left">纽约，美国</h6>
