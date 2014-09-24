@@ -9,7 +9,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">旅心</a>
+          <a class="navbar-brand" href="#">旅心1</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
