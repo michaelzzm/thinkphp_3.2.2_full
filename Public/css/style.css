@@ -13,11 +13,41 @@
     max-height: 100%;
     width: 100%;
 }
+
+.minihero-unit {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+    background-image: url("../images/hero.jpg");
+    /*height: 300px;*/
+    background-size: ;
+    -webkit-background-size: cover;
+    background-position: center;
+    max-height: 60%;
+    width: 100%;
+}
+
 .rest-unit {
     position: absolute;
     top: 100%;
     left: 0;
     right: 0;
+    padding-top: 20px;
+}
+
+.rest-unit-others {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    padding-top: 20px;
+}
+.searchbox {
+    border-radius: 30px!important;
+    padding: 30px!important;
     padding-top: 20px;
 }
 .featured {
@@ -135,9 +165,13 @@
  *
 */
 .thumbnail {
-    border-radius: 0!important;
-    padding: 0!important;
+    border-radius: 10px!important;
+    padding: 10px!important;
+    padding-top: 20px!important;
+    padding-bottom: 20px!important;
+
 }
+
 .thumbnail .caption {
     padding-left: 19px!important;
 }
@@ -148,4 +182,3 @@
 .media, .media-body{
     overflow: visible!important;
 }
-
