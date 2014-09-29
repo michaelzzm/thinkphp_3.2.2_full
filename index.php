@@ -18,6 +18,9 @@ if(version_compare(PHP_VERSION,'5.3.0','<'))  die('require PHP > 5.3.0 !');
 define('APP_DEBUG',true);
 
 // 定义应用目录
+define('BIND_MODULE', 'Home'); // 绑定Home模块到当前入口文件
+//define('BIND_CONTROLLER','Index'); // 绑定Index控制器到当前入口文件
+
 define('APP_PATH','./Application/');
 define('__PUBLIC__','./Public/');
 
